@@ -1,0 +1,10 @@
+langchain_community
+pypdf
+docarray
+streamlit
+chainlit
+jinja2
+pdfkit
+PyPDF2
+pdfminer.six
+pdfminer
